@@ -1,0 +1,2 @@
+Step 1: Press the "." keyboard button. You'll be navigated to web VS Code version
+Step 2: 
