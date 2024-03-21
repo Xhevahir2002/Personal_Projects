@@ -1,2 +1,3 @@
 Step 1: Press the "." keyboard button. You'll be navigated to web VS Code version
 Step 2: Right click on "Web Development" folder and then select "Download"
+Step 3: 
