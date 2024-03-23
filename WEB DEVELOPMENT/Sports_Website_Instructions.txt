@@ -5,3 +5,6 @@ Step 2: Right click on "Sports Website" folder and then select "Download". CAUTI
         "Documents" or "Images" because won't let you download the folder. Instead make a new folder everywhere (including 4 above folders) and 
         download it there.
 Step 3: Run "Sports.html" file
+
+NOTE: If you want to watch my video without downloading it, you can simply press the "." keyboard button. You'll be navigated to web VS Code 
+      version and you can watch the video from there.
