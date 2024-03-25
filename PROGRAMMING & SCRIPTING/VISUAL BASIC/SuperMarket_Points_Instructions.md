@@ -2,7 +2,7 @@
 > This file was created in case that you want to test the project's functionality by yourself
 
 - [x] **Step 1**: Install Visual Studio 2022 for free (in case that you haven't it). Whole procedure is in this video: https://www.youtube.com/watch?v=Ivvwh-7H2ek. 
-> [! NOTE]
+> [!NOTE]
 > If you have Visual Studio 2019, it'll work fine. Therefore, there is no need to install 2022 version.
 - [x] **Step 2**: Press the "." keyboard button. You'll be navigated to web VS Code version
 - [x] **Step 3**: Right click on "SuperMarket_Points" folder and then select "Download". 
