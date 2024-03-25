@@ -1,0 +1,12 @@
+C:\Users\τζεβαχιρ\Desktop\SuperMarket_Points\bin\Debug\SuperMarket_Points.exe.config
+C:\Users\τζεβαχιρ\Desktop\SuperMarket_Points\bin\Debug\SuperMarket_Points.exe
+C:\Users\τζεβαχιρ\Desktop\SuperMarket_Points\bin\Debug\SuperMarket_Points.pdb
+C:\Users\τζεβαχιρ\Desktop\SuperMarket_Points\bin\Debug\SuperMarket_Points.xml
+C:\Users\τζεβαχιρ\Desktop\SuperMarket_Points\obj\Debug\SuperMarket_Points.vbprojAssemblyReference.cache
+C:\Users\τζεβαχιρ\Desktop\SuperMarket_Points\obj\Debug\SuperMarket_Points.Frm_Transaction.resources
+C:\Users\τζεβαχιρ\Desktop\SuperMarket_Points\obj\Debug\SuperMarket_Points.Resources.resources
+C:\Users\τζεβαχιρ\Desktop\SuperMarket_Points\obj\Debug\SuperMarket_Points.vbproj.GenerateResource.cache
+C:\Users\τζεβαχιρ\Desktop\SuperMarket_Points\obj\Debug\SuperMarket_Points.vbproj.CoreCompileInputs.cache
+C:\Users\τζεβαχιρ\Desktop\SuperMarket_Points\obj\Debug\SuperMarket_Points.exe
+C:\Users\τζεβαχιρ\Desktop\SuperMarket_Points\obj\Debug\SuperMarket_Points.xml
+C:\Users\τζεβαχιρ\Desktop\SuperMarket_Points\obj\Debug\SuperMarket_Points.pdb
