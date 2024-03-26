@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T10:37:15.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="kDYQ90-bUadS_0W2Zehv" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T10:45:32.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="FRKq7vbdlPxvP8sGXV_T" version="24.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1450" dy="565" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1690" dy="565" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -248,7 +248,7 @@
         <mxCell id="fHp2qP4Lxyj9vEpVP1ns-56" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: medium; background-color: initial;&quot;&gt;&quot;You have 9 points. There is 1 point left to win a giftcard worth 5 euros. The total amount is ... euros&quot;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1090" y="1376" width="199" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="fHp2qP4Lxyj9vEpVP1ns-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fHp2qP4Lxyj9vEpVP1ns-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="fHp2qP4Lxyj9vEpVP1ns-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1411.5" y="1308" as="sourcePoint" />
             <mxPoint x="1411.5" y="1367" as="targetPoint" />
@@ -258,6 +258,54 @@
           <mxGeometry x="-0.3085" y="-3" relative="1" as="geometry">
             <mxPoint x="2" y="3" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fHp2qP4Lxyj9vEpVP1ns-59" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&quot;You have 1 point. There are 9 points left to win a giftcard worth 5 euros. The total amount is ... euros&quot;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1312.5" y="1376" width="199" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="fHp2qP4Lxyj9vEpVP1ns-60" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1537.5" y="1240" as="sourcePoint" />
+            <mxPoint x="1670.5" y="1376" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1538" y="1243" />
+              <mxPoint x="1671" y="1243" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fHp2qP4Lxyj9vEpVP1ns-61" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Else&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fHp2qP4Lxyj9vEpVP1ns-60">
+          <mxGeometry x="-0.3665" y="-3" relative="1" as="geometry">
+            <mxPoint x="-10" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fHp2qP4Lxyj9vEpVP1ns-63" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font size=&quot;3&quot;&gt;You have ... points. There are ... points left to win a giftcard worth 5 euros. The total amount is ... euros&quot;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1562" y="1376" width="199" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="fHp2qP4Lxyj9vEpVP1ns-64" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1671" y="1511" as="sourcePoint" />
+            <mxPoint x="1671" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fHp2qP4Lxyj9vEpVP1ns-65" value="&lt;font size=&quot;3&quot;&gt;Transaction Completion&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1621" y="1571" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fHp2qP4Lxyj9vEpVP1ns-66" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1412" y="1511" as="sourcePoint" />
+            <mxPoint x="1412" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fHp2qP4Lxyj9vEpVP1ns-67" value="&lt;font size=&quot;3&quot;&gt;Transaction Completion&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1362" y="1571" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fHp2qP4Lxyj9vEpVP1ns-68" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1189.5" y="1511" as="sourcePoint" />
+            <mxPoint x="1189.5" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fHp2qP4Lxyj9vEpVP1ns-69" value="&lt;font size=&quot;3&quot;&gt;Transaction Completion&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1139.5" y="1571" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
