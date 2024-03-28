@@ -1,5 +1,5 @@
-> [!IMPORTANT]
-> If you want to watch my Diagramming & Flowcharting video without downloading it, you can simply press the "." keyboard button. You'll be navigated to web VS Code version and you can watch the video from there.
+> [!TIP]
+> Anyone who hasn't seen my Visual Basic video yet, is pleased to check it out by clicking here [Visual Basic Project Video](/PROGRAMMING%20&%20SCRIPTING/VISUAL%20BASIC/Visual%20Basic%20Project%20Video.mp4) before seeing the flowchart in order to understand how did I come up to this.
 
 > [!NOTE] 
 > This file was created in case that you want to test the flowchart by yourself
