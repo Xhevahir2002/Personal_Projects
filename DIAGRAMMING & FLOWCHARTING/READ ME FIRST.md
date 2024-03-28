@@ -1,5 +1,5 @@
 > [!TIP]
-> Anyone who hasn't seen my Visual Basic video yet, is pleased to check it out by clicking here: [Visual Basic Project Video](/PROGRAMMING%20&%20SCRIPTING/VISUAL%20BASIC/READ%20ME%20FIRST.md) before seeing the flowchart, in order to understand how did I come up to this.
+> Anyone who hasn't watched my Visual Basic video yet, please do it by clicking here: [Visual Basic Project Video](/PROGRAMMING%20&%20SCRIPTING/VISUAL%20BASIC/READ%20ME%20FIRST.md) before seeing the flowchart, in order to understand how did I come up to this.
 
 > [!NOTE] 
 > This file was created in case that you want to test the flowchart by yourself
