@@ -13,3 +13,6 @@
 > Do not select any folder like "Desktop", "Downloads" or "Documents" because won't let you download the folder. Instead make a new folder everywhere (including 3 above folders) and download it there.
 - [x] **Step 4**: Open "SuperMarket_Points.sln" with "Microsoft Visual Studio 2022" (or "Microsoft Visual Studio 2019") and run the code by 
                   pressing "F5".
+
+> [!NOTE]
+> If you want to check out the flowchart that I showed you in the video, click here: [Transaction Completion Process](/DIAGRAMMING%20&%20FLOWCHARTING/READ%20ME%20FIRST.md)
