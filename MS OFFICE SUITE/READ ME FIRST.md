@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > Content creation for this skill is ongoing
 
-![Progress Bar](image.png)
+![Progress Bar](Progress_Bar.png)
 
 ## MS WORD
 In this [folder](/MS%20OFFICE%20SUITE/MS%20WORD/) I've got 4 files. If you would like to check these files, you can simply press the "." keyboard button. You'll be navigated to web VS Code version. Afterwards, right click on "MS WORD" folder and then click on "Download" option.
