@@ -10,7 +10,8 @@ Below is a list explaining what does each file do:
 > [!WARNING]
 > Once you open this file, you'll be asked to enter a specific code in order to view its contents. The code is: **12345**
 
-"**LARGE LANGUAGE MODEL.pdf**": In this file I demonstrate my skill of converting a WORD file into PDF.
+:heavy_check_mark:"**LARGE LANGUAGE MODEL.pdf**": In this file I demonstrate my skill of converting a WORD file into PDF.
 > [!WARNING]
 > Once you open this file, you'll be asked to enter a specific code in order to view its contents. The code is: **123456**
+
 :heavy_check_mark:"**ENGLISH CONTENT.docx**" + "**TRANSLATED IN GERMAN CONTENT.docx**": In these files I demonstrate my skill in translating a WORD document into another language. In this particular case, I'm translating from English to German.
