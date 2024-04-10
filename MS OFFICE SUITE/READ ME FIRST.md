@@ -8,7 +8,7 @@ In this [folder](/MS%20OFFICE%20SUITE/MS%20WORD/) I've got 4 files. If you would
 Below is a list explaining what does each file do:  
 :heavy_check_mark:"**LARGE LANGUAGE MODEL.docx**": In this file I demonstrate the majority of my skills in MS WORD. 
 > [!WARNING]
-> Once you open this file, you'll be asked to enter a specific code in order to view its contents. The code is: **12345**
+> Once you open this file, you'll be asked to enter a specific code in order to view its contents. The code is: **12345**. At the top of the document, you'll see 2 warnings that document is in protected view and is final. If you want to edit it, click on "Enable Editing" & "Edit Anyway".
 
 :heavy_check_mark:"**LARGE LANGUAGE MODEL.pdf**": In this file I demonstrate my skill of converting a WORD file into PDF.
 > [!WARNING]
