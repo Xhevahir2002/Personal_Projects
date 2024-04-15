@@ -4,6 +4,9 @@
 ![Progress Bar](Progress_Bar.png)
 
 ## MS WORD
+> [!IMPORTANT]
+> If you want to watch my MS Word videos without downloading them, you can simply press the "." keyboard button. You'll be navigated to web VS Code version and you can watch the videos from there.
+
 In this [folder](/MS%20OFFICE%20SUITE/MS%20WORD/) I've got 4 files. If you would like to check these files, you can simply press the "." keyboard button. You'll be navigated to web VS Code version. Afterwards, right click on "MS WORD" folder and then click on "Download" option.
 Below is a list explaining what does each file do:  
 :heavy_check_mark:"**LARGE LANGUAGE MODEL.docx**": In this file I demonstrate the majority of my skills in MS WORD. 
