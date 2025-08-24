@@ -2,6 +2,8 @@
 
 
 <summary>📌 Project Overview</summary>
+<br>
+
 This project demonstrates an **end-to-end Business Intelligence pipeline** for **Sales & Customer Analysis**, leveraging:  
 ✔ **Power Query** → Data cleaning and transformation  
 ✔ **SQL** → Database schema design and optimized queries  
