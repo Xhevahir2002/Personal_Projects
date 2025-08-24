@@ -1,6 +1,5 @@
 <details>
 
-
 <summary>📌 Project Overview</summary>
 <br>
 
@@ -17,6 +16,7 @@ This project demonstrates an **end-to-end Business Intelligence pipeline** for *
 <details>
 
 <summary>📂 Dataset Information</summary>
+<br>
 
 ℹ️ **Dataset Name:** Brazilian E-Commerce Public Dataset by Olist  
 ✔ **Size:** ~100,000+ orders across multiple tables  
