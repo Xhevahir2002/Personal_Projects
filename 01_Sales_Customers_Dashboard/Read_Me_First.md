@@ -1,19 +1,17 @@
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>### **📌 Project Overview**</summary>
 
-
-
-# **Sales & Customer Analysis Dashboard**
-
-## **📌 Project Overview**
 This project demonstrates an **end-to-end Business Intelligence pipeline** for **Sales & Customer Analysis**, leveraging:  
 ✔ **Power Query** → Data cleaning and transformation  
 ✔ **SQL** → Database schema design and optimized queries  
 ✔ **Excel** → Data preprocessing & validation using pivot tables  
 ✔ **Power BI** → Interactive dashboards and advanced visualizations  
 
-**Goal:** Build actionable insights for sales performance, customer behavior, and profitability using real-world data.  
+**Goal:** Build actionable insights for sales performance, customer behavior, and profitability using real-world data. 
+
+</details>
+ 
 
 ---
 
@@ -77,4 +75,3 @@ Due to **GitHub file size limits**, the dataset (100MB+) is not committed to the
 ---
 
 ✅ **Coming soon:** Screenshots & Power BI dashboard preview!
-</details>
