@@ -27,7 +27,7 @@ This project demonstrates an **end-to-end Business Intelligence pipeline** for *
 ➤ Reviews (customer ratings & comments)  
 ➤ Geolocation (customer & seller coordinates)  
 
-## **⚠️ Why the dataset is not included**
+### **⚠️ Why the dataset is not included**
 Due to **GitHub file size limits**, the dataset (40MB+) is not committed to the repository.
 
 **📥 Download the dataset here:**  
