@@ -1,6 +1,6 @@
 <details>
 
-<summary>### **📌 Project Overview**</summary>
+<summary>📌 Project Overview</summary>
 
 This project demonstrates an **end-to-end Business Intelligence pipeline** for **Sales & Customer Analysis**, leveraging:  
 ✔ **Power Query** → Data cleaning and transformation  
@@ -26,14 +26,11 @@ This project demonstrates an **end-to-end Business Intelligence pipeline** for *
 ➤ Reviews (customer ratings & comments)  
 ➤ Geolocation (customer & seller coordinates)  
 
+## **⚠️ Why the dataset is not included**
+Due to **GitHub file size limits**, the dataset (40MB+) is not committed to the repository.
+
 **📥 Download the dataset here:**  
 👉 [Brazilian E-Commerce Dataset on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
-
----
-
-## **⚠️ Why the dataset is not included**
-Due to **GitHub file size limits**, the dataset (100MB+) is not committed to the repository.  
-✔ To replicate this project, please **download it from Kaggle using the link above**.  
 
 ---
 
@@ -65,13 +62,3 @@ Due to **GitHub file size limits**, the dataset (100MB+) is not committed to the
 ✔ **RFM Analysis** for customer value  
 
 ---
-
-## **▶ How to Run**
-1. **Download the dataset** from Kaggle  
-2. **Load and clean data** using Power Query (Excel / Power BI)  
-3. **Apply SQL scripts** for schema creation and query optimization  
-4. **Open the Power BI file** to explore the interactive dashboard  
-
----
-
-✅ **Coming soon:** Screenshots & Power BI dashboard preview!
