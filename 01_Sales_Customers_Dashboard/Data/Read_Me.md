@@ -1,38 +1,73 @@
-📌 Project Overview
+# **Sales & Customer Analysis Dashboard**
 
-This project focuses on building an end-to-end data pipeline for sales and customer analysis using:
+## **📌 Project Overview**
+This project demonstrates an **end-to-end Business Intelligence pipeline** for **Sales & Customer Analysis**, leveraging:  
+✔ **Power Query** → Data cleaning and transformation  
+✔ **SQL** → Database schema design and optimized queries  
+✔ **Excel** → Data preprocessing & validation using pivot tables  
+✔ **Power BI** → Interactive dashboards and advanced visualizations  
 
-Power Query for data cleaning and transformation
+**Goal:** Build actionable insights for sales performance, customer behavior, and profitability using real-world data.  
 
-SQL for database structuring and query optimization
+---
 
-Excel for preprocessing and pivot-based validation
+## **📂 Dataset Information**
+ℹ️ **Dataset Name:** Brazilian E-Commerce Public Dataset by Olist  
+✔ **Size:** ~100,000+ orders across multiple tables  
+✔ **Includes:**  
+➤ Orders (IDs, timestamps, statuses)  
+➤ Customers (location, unique IDs)  
+➤ Products (categories & descriptions)  
+➤ Payments (methods & amounts)  
+➤ Reviews (customer ratings & comments)  
+➤ Geolocation (customer & seller coordinates)  
 
-Power BI for interactive dashboards and insights
+**📥 Download the dataset here:**  
+👉 [Brazilian E-Commerce Dataset on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
 
-The goal is to simulate a real-world Business Intelligence (BI) solution that tracks sales performance, customer behavior, and profitability metrics.
+---
 
-📂 Dataset Information
+## **⚠️ Why the dataset is not included**
+Due to **GitHub file size limits**, the dataset (100MB+) is not committed to the repository.  
+✔ To replicate this project, please **download it from Kaggle using the link above**.  
 
-The dataset used in this project is the Brazilian E-Commerce Public Dataset by Olist, which contains:
+---
 
-Orders: Order IDs, timestamps, and order statuses
+## **✅ How the data is used**
+✔ **Power Query:**  
+➤ Automate data imports  
+➤ Apply transformation workflows  
+➤ Merge multiple sources into a clean model  
 
-Customers: Location and unique identifiers
+✔ **SQL:**  
+➤ Create normalized schema  
+➤ Optimize queries for faster aggregations  
 
-Products: Categories and descriptions
+✔ **Power BI:**  
+➤ Build interactive dashboards with KPIs  
+➤ Enable real-time decision-making using live data sources  
 
-Payments: Methods and amounts
+✔ **Optional Python:**  
+➤ Automate ETL pipelines  
+➤ Apply predictive models (e.g., sales forecasting)  
 
-Reviews: Customer ratings and comments
+---
 
-Geolocation: Customer and seller coordinates
+## **📊 Dashboard Features**
+✔ Sales performance by **region & product category**  
+✔ **Customer segmentation**: New vs Returning  
+✔ **Payment analysis** by method  
+✔ Delivery performance & SLA tracking  
+✔ **RFM Analysis** for customer value  
 
-✔ Volume: Over 100,000 orders across multiple relational tables
-✔ Source: Kaggle - Brazilian E-Commerce Dataset
+---
 
-⚠ Why the dataset is not included here
+## **▶ How to Run**
+1. **Download the dataset** from Kaggle  
+2. **Load and clean data** using Power Query (Excel / Power BI)  
+3. **Apply SQL scripts** for schema creation and query optimization  
+4. **Open the Power BI file** to explore the interactive dashboard  
 
-The dataset is large (100MB+) and cannot be committed to GitHub due to repository size limitations.
-Instead, you can download it directly from Kaggle using this link:
-👉 Download the dataset here
+---
+
+✅ **Coming soon:** Screenshots & Power BI dashboard preview!
