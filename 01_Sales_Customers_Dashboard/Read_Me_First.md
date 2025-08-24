@@ -37,3 +37,32 @@ Due to **GitHub file size limits**, the dataset (40MB+) is not committed to the 
 👉 [Brazilian E-Commerce Dataset on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
 
 </details>
+
+<details>
+
+<summary>🔄 Processing Workflow</summary>
+<br>
+
+This project follows a structured pipeline to ensure clean, reliable, and actionable data:  
+
+1. **Power Query (Data Cleaning & Transformation)**  
+   ✔ Import raw CSV files from multiple sources  
+   ✔ Handle missing values, normalize formats (dates, categories)  
+   ✔ Merge tables to create a single clean dataset  
+
+2. **SQL (Database Modeling & Query Optimization)**  
+   ✔ Design normalized schema to store data  
+   ✔ Write optimized queries for aggregations and joins  
+   ✔ Prepare data subsets for reporting and analysis  
+
+3. **Excel (Validation & Pre-Analysis)**  
+   ✔ Validate cleaned data using pivot tables  
+   ✔ Perform initial descriptive analytics  
+   ✔ Check consistency before BI integration  
+
+4. **Power BI (Visualization & Dashboarding)**  
+   ✔ Build **interactive dashboards** with KPIs  
+   ✔ Integrate **live queries** for real-time decision-making  
+   ✔ Create filters for customer segments, regions, and product categories
+
+</details>
