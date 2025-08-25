@@ -16,10 +16,10 @@ Due to **GitHub file size limits**, the dataset is not included in this reposito
 Analyze sales trends, customer behavior, and delivery performance to generate actionable insights for improving profitability and customer experience.
 
 **Business Questions:**
-✔ Which product categories generate the highest revenue and profit?
-✔ What is the average delivery time by region?
-✔ How are sales distributed across payment channels?
-✔ What is the Customer Lifetime Value (CLV) for different segments? 
+  ✔ Which product categories generate the highest revenue and profit?
+  ✔ What is the average delivery time by region?
+  ✔ How are sales distributed across payment channels?
+  ✔ What is the Customer Lifetime Value (CLV) for different segments? 
 
 </details>
 
