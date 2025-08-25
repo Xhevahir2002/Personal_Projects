@@ -5,7 +5,7 @@
 
 This project uses real financial statement data from multiple companies. The dataset includes key metrics such as ROA, ROE, liquidity ratios, leverage ratios, and profit margins, enabling assessment of financial health and risk.
 
-The dataset is available in the **Data folder** as **Financials.csv** 
+The dataset is available in the **Data folder** as **Financials.csv**<br>
 👉 [Original Source](https://www.kaggle.com/datasets/atharvaarya25/financials)
 
 **Goal:**
